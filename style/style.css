@@ -1,0 +1,11 @@
+li{
+  list-style: none;
+}
+.col-sm-3
+{
+  background-color: white;
+  margin: 15px;
+}
+body{
+  background-color: #e3e9f2;
+}
